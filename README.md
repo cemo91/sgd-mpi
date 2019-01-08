@@ -1,2 +1,2 @@
-# distributedMPI
-cem's MPI project
+# Stochastic Gradient Descent with Message Passing Interface
+
